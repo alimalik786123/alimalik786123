@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malik Mohammad Ali Ahmad</h1>
-<h3 align="center">A passionate full stack developer ML/Data science learner from India</h3>
+<h3 align="center">A passionate full stack developer and ML/Data science learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimalik786123&label=Profile%20views&color=0e75b6&style=flat" alt="alimalik786123" /> </p>
 
