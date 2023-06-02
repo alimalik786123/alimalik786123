@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimalik786123&label=Profile%20views&color=0e75b6&style=flat" alt="alimalik786123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimalik786123" alt="alimalik786123" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimalik786123" alt="alimalik786123" /></a> </p> -->
 
 - 🔭 I’m currently working on [Chat Application(MERN stack)](https://github.com/alimalik786123/MERN-ChatAapp)
 
