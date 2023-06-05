@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimalik786123&label=Profile%20views&color=0e75b6&style=flat" alt="alimalik786123" /> </p>
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
 
 <!-- <div>---------</div> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alimalik786123&theme=dark&hide_border=false)<br/>
